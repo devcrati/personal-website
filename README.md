@@ -1,4 +1,3 @@
-# [**Jeremy Jiang**](https://jeremys.xyz) 🧑🏽
 My personal website 👋
 
 ### **Tech stack** 📚
