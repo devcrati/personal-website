@@ -17,6 +17,11 @@
       text: "Github",
     },
     {
+      href: "https://stackoverflow.com/users/14888930/crati",
+      icon: "fa-brands fa-stack-overflow",
+      text: "stack-overflow"
+    },
+    {
       href: "https://x.com/cratikanon",
       icon: "fa-brands fa-x-twitter",
       text: "X (formerly Twitter)",
