@@ -142,7 +142,7 @@
       <br />
       <br />
       <small
-        >Born and raised in Houston, I’ve built my career by contributing to companies such as Cognizant and Squarespace, and since 2021, I have worked on various full-stack projects across diverse industries. Passionate about cutting-edge technology, I strive to stay ahead of industry trends, continuously integrating cloud services like AWS and Azure with AI workflows to build innovative, impactful solutions.</small
+        >Based in Houston, I’ve built my career by contributing to companies such as Cognizant and Squarespace, and since 2021, I have worked on various full-stack projects across diverse industries. Passionate about cutting-edge technology, I strive to stay ahead of industry trends, continuously integrating cloud services like AWS and Azure with AI workflows to build innovative, impactful solutions.</small
       >
     </p>
   </section>
