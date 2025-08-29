@@ -14,8 +14,8 @@ Jeremy's professional experience includes:
 
 Jeremy's socials:
   - GitHub: https://github.com/devcrati
-  - Resume: https://jeremys.xyz/assets/Jeremy_Jiang.pdf
-  - Email: jeremy.jiang9451@gmail.com
+  - Resume: https://jeremys.xyz/assets/Jeremy-Resume.pdf
+  - Email: jeremyjiang009@gmail.com
 
 Jeremy also holds a Bachelor's degree in Computer Science from UTA and has worked on open-source projects available on GitHub.
 

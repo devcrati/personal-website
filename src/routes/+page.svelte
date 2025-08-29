@@ -99,12 +99,12 @@
       <h1 id="user-name">{title}</h1>
       <p>
         <a
-          href="mailto:jeremy.jiang9451@gmail.com"
+          href="mailto:jeremyjiang009@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           class="email"
         >
-          jeremy.jiang9451@gmail.com</a
+          jeremyjiang009@gmail.com</a
         >
         •
         <a
@@ -181,7 +181,7 @@
           rel="noopener noreferrer">SquareSpace</a
         ></strong
       >
-      <p><i>Jul 2022 till Dec 2022</i> • Houston</p>
+      <p><i>Nov 2016 till Oct 2019</i> • Houston</p>
     </div>
   </section>
 
